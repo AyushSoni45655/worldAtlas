@@ -3,7 +3,7 @@
 A fast, responsive World Atlas web app built with React, Tailwind CSS, React Router DOM, and Axios. Browse countries, search by name, filter by region, sort by population/area, and view rich country details (flags, capital, population, currencies, languages, and border countries).
 
 || HOME PAGE ||
-<img srs="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2hZH40WmOUqZ_Fp-5TKOUry1d8pSPDuRbHXaeGtLAcIhRes4ZKaVQ4duyz44m0Vd9Rp5j9kdhztbUUHC_U5_chx5tJjuSxY3FDFCXlq0_g9Wt1-sOIeYM970KcXRHPKC_CuYhxL3ztm437MvIvURv3Lp-BYku-T1Cg7fcWdploxaCVQSLOvFRCVd9Wt1o/s1771/Screenshot%202025-08-30%20072853.png" alt="_blank">
+<img srs="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2hZH40WmOUqZ_Fp-5TKOUry1d8pSPDuRbHXaeGtLAcIhRes4ZKaVQ4duyz44m0Vd9Rp5j9kdhztbUUHC_U5_chx5tJjuSxY3FDFCXlq0_g9Wt1-sOIeYM970KcXRHPKC_CuYhxL3ztm437MvIvURv3Lp-BYku-T1Cg7fcWdploxaCVQSLOvFRCVd9Wt1o/s1771/Screenshot%202025-08-30%20072853.png" alt="">
 
 ✨ Features
 
