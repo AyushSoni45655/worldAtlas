@@ -1,12 +1,38 @@
-# React + Vite
+🌍 World Atlas — React + Tailwind CSS + React Router + Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast, responsive World Atlas web app built with React, Tailwind CSS, React Router DOM, and Axios. Browse countries, search by name, filter by region, sort by population/area, and view rich country details (flags, capital, population, currencies, languages, and border countries).
 
-Currently, two official plugins are available:
+|| HOME PAGE ||
+<img srs="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2hZH40WmOUqZ_Fp-5TKOUry1d8pSPDuRbHXaeGtLAcIhRes4ZKaVQ4duyz44m0Vd9Rp5j9kdhztbUUHC_U5_chx5tJjuSxY3FDFCXlq0_g9Wt1-sOIeYM970KcXRHPKC_CuYhxL3ztm437MvIvURv3Lp-BYku-T1Cg7fcWdploxaCVQSLOvFRCVd9Wt1o/s1771/Screenshot%202025-08-30%20072853.png" alt="_blank">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+Country List + Infinite/Chunked Loading for speed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Search by country name (debounced)
+
+Filter by region (Africa, Americas, Asia, Europe, Oceania, Antarctic)
+
+Sort by Population / Area / Name (asc/desc)
+
+Country Details Page with: flag, capital, native name, subregion, population, area, currencies, languages, timezones, calling code, TLD, UN member, border countries (clickable)
+
+Dark/Light Theme Toggle (system-aware)
+
+Client-side Routing with React Router
+
+API Integration using Axios (REST Countries v3)
+
+Mobile-first responsive UI with Tailwind
+
+🧱 Tech Stack
+
+React (Vite)
+
+Tailwind CSS
+
+React Router DOM
+
+Axios
+
+Optional: Framer Motion (微 animations), React Icons
