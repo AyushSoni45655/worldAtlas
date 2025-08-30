@@ -9,7 +9,7 @@ export const HeroPage = ()=>{
         <button className="btn">start  exploring <FaLongArrowAltRight /></button>
       </div>
       <div className="hero-image">
-        <img src="/public/images/world.png" alt="world Atlas" className="banner-image" />
+        <img src="https://gisgeography.com/wp-content/uploads/2025/04/World-Atlas.png" alt="world Atlas" className="banner-image" />
       </div>
     </div>
     </main>
